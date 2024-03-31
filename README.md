@@ -1,1 +1,1 @@
-# program-to-pronouce-of-yes-yes-or-no-1
+# program-to-pronouce-of-yes-yes-or-no-with approach-1
